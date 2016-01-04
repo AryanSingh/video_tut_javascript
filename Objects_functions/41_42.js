@@ -1,0 +1,2 @@
+// syntax parser is the javascript engine which goes through our code line by line and automatically changes it if it thinks it necessary to do so
+// we should always put our own semicolons. Javascript does automatically insert semicolons but we should not depend on it.
